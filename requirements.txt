@@ -1,0 +1,8 @@
+python-dotenv
+langchain>=1.0
+langchain-openai
+psycopg[binary]
+pandas
+sqlalchemy
+streamlit
+sqlparse
