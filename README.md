@@ -79,3 +79,4 @@ flowchart TD
 - Add descriptions to procedures so the agent can pick the right one: `COMMENT ON FUNCTION my_fn(...) IS 'Monthly sales by region';`
 - Procedures only return rows if they are functions returning a table/set, or procedures with `INOUT` parameters.
 # Ai-agent-SQL
+# Ai-agent-SQL
