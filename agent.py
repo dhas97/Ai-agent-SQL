@@ -8,7 +8,7 @@ from sql_prompt import SYSTEM_PROMPT
 from tools import TOOLS
 
 
-llm = ChatOpenAI(model=OPENAI_MODEL, temperature=0)
+llm = ChatOpenAI(model=OPENAI_MODEL, temperature=0, max_tokens=512)
 
 agent = create_agent(
     model=llm,

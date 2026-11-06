@@ -12,7 +12,7 @@ st.set_page_config(
 st.title("🤖 AI Data Agent")
 
 st.write(
-    "Ask questions about your PostgreSQL database "
+    "Ask questions about your database "
     "using natural language."
 )
 

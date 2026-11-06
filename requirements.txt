@@ -2,6 +2,7 @@ python-dotenv
 langchain>=1.0
 langchain-openai
 psycopg[binary]
+PyMySQL[rsa]
 pandas
 sqlalchemy
 streamlit
